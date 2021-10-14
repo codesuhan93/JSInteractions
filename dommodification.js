@@ -19,4 +19,3 @@ document.body.appendChild(paragraph);
 
 first.parentNode.innerHTML = '<p>I am the parent and my inner HTML has been replaced!</p>';
 
-//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
